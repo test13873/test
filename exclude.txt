@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 version 2 on branch git
 TESTING
+=======
+this is the original production branch
+>>>>>>> production
 testtesttesttesttest
 morewords
 auetnhsaeunthsauetnhoaeuhtnse
